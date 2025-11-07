@@ -1,0 +1,6 @@
+*
+.*
+/*/*
+!/.gitignore
+!/senne_calendar.ics
+!/README.md
