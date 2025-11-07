@@ -1,4 +1,7 @@
-# Kalender-Abonnement zum iPhone hinzufügen
+# Kalendar für die Sennesperrzeiten, direkt im Handy
+Für Schlangen, Sennelager, Augustdort und Detmold
+
+## Kalender-Abonnement zum iPhone hinzufügen
 
 1. Öffnen Sie die Kalender-App auf Ihrem iPhone.
 
@@ -15,7 +18,7 @@
 7. Möglicherweise werden Sie aufgefordert, den Kalender zu benennen und Einstellungen vorzunehmen. Tippen Sie zum Abschluss auf "Hinzufügen" oder "Fertig".
 
 ------
-# Add Calendar Subscription to iPhone
+## Add Calendar Subscription to iPhone
 
 1. Open the Calendar app on your iPhone.
 
