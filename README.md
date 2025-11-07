@@ -1,5 +1,5 @@
 # Kalendar für die Sennesperrzeiten, direkt im Handy
-Für Schlangen, Sennelager, Augustdort und Detmold
+Für Schlangen, Oesterholz-Haustenbeck, Bad Lippspringe, Sennelager, Augustdorf und Detmold
 
 ## Kalender-Abonnement zum iPhone hinzufügen
 
